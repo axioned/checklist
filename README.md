@@ -4,9 +4,9 @@
 
 # Checklist
 
-![License](https://img.shields.io/github/license/atolye15/checklist) ![Build status](https://img.shields.io/circleci/build/github/atolye15/checklist?token=f24c01bd62842ac4e36b333b195fbe18f98459cd) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md)
+![License](https://img.shields.io/github/license/banuragprdxn/checklist) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/banuragprdxn/checklist/blob/master/CONTRIBUTING.md)
 
-We love to automate anything if it can be automated. For the things we can’t automate (yet) we have a protocol. These protocols standardise our workflow so that everyone in Atolye15 can work on a standard. Checklist is a project that helps us follow these protocols online.
+We love to automate anything if it can be automated. For the things we can’t automate (yet) we have a protocol. These protocols standardise our workflow so that everyone in PRDXN can work on a standard. Checklist is a project that helps us follow these protocols online.
 
 ## Motivation
 
@@ -18,12 +18,14 @@ This was an internal tool that we still use on every department but we’ve deci
 
 If you would like to contribute to this project, please refer to [CONTRIBUTING.md](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md) guide.
 
-## Development
+## Installing
 
-You need to run the command below for the development server.
+After cloning the repo locally, run the following commands:
 
 ```bash
 cd checklist
+npm install
+npm install -g gatsby-cli
 gatsby develop
 ```
 
