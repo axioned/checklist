@@ -3,7 +3,7 @@ title: Password Generation Rules
 category: General
 date: "2020-03-11"
 tags: ['password']
-description: These are the rules you need to follow when you generate any kind of password
+description: These are the rules you need to follow when you generate any password for a client/project tool/environment.
 ---
 
 - [ ] Password should be at least 16 characters long  
@@ -19,5 +19,5 @@ description: These are the rules you need to follow when you generate any kind o
 - [ ] Use a generator  
 You can use [Password Generator](https://passwordsgenerator.net) with default settings to apply this checklist
 
-- [ ] Enable 2FA on the platform that you use this password
-If the platform supports two-factor authentication then you should enable it
+- [ ] Document the information  
+Update the project credential document and notify the Project Manager / project team.

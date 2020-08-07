@@ -12,7 +12,7 @@ description: Follow this checklist to not to get lost on the board
 Board names come from the project name. If you gave a meaningful name to your project, board name will be also easy to understand
 
 - [ ] Adjust the column name in the coloumn settings  
-Generally we use To Do, In Progress, Deployment, QA and Done columns
+Generally we use To Do, In Progress, Code Review, QA, UAT and Done columns
 
 - [ ] Match your columns with the related status  
 There should be no unmapped status in the righ-side menu. Otherwise the issues will lost in Jira! 
@@ -25,6 +25,3 @@ We set red scale for Highest and High, yellow for Medium and green scale for Low
 
 - [ ] Set the most used fields in card layout settings  
 We use Status, Components, Development and open the days in column indicator
-
-- [ ] Set estimation statistic to Original Time Estimate in estimation settings  
-Time tracking method should be Remaining Estimate and Time Spent

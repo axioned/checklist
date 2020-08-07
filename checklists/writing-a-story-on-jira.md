@@ -1,8 +1,8 @@
 ---
-title: Writing a Story on Jira
+title: Writing a User Story
 category: Project Management
 date: "2020-03-21"
-tags: ['jira', 'issue']
+tags: ['user-story', 'issue']
 description: Hey storyteller! 🤓 Follow this checklist to don't miss any point while writing a story.
 ---
 

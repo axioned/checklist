@@ -49,6 +49,15 @@ export const getDescription = (title: string): string => {
     case 'Human Resources':
       return 'Cabin crew, slides armed and cross check! Here are the checklists to make sure everyone in the crew is happy.';
 
+    case 'Quality Assurance':
+      return 'We keep it simple and smart, and these are our checklists mainly used by our front-end developers.';
+
+    case 'SEO':
+      return 'We keep it simple and smart, and these are our checklists mainly used by our front-end developers.';
+
+    case 'Security':
+      return 'We keep it simple and smart, and these are our checklists mainly used by our front-end developers.';
+
     case 'Marketing':
       return 'Our marketing checklist is to help supporting our good work by its communication, and has everything marketing team uses for our marketing efforts.';
 

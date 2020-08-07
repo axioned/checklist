@@ -9,9 +9,6 @@ description: Welcome on board! Follow the checklist for the last controls before
 - [ ] Prepare 301 redirection list  
 We usually apply this to-do to the existing websites  
 
-- [ ] Setup a ping tool  
-We use UptimeRobot as a ping tool.  
-
 - [ ] Generate sitemap.xml  
 You can generate it on Google WMT or you can get help from a back-end developer.  
 
@@ -28,7 +25,7 @@ You should share necessary email address and password with the client.
 We are checking Safari, Chrome, Firefox on different devices. Please refer to [Cross-Browser Test Checklist](https://checklist.atolye15.com/checklist/cross-browser-test).  
 
 - [ ] Check Google Speed Insights  
-Mobile and desktop analysis results must be minimum of 90 grade.  
+Mobile and desktop analysis results must be minimum of 70 grade.  
 
 - [ ] Check all the static assets are compressed   
 

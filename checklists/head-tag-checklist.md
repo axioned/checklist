@@ -55,7 +55,7 @@ The inline critical CSS is correctly injected in the HEAD.
 All CSS files are loaded before any JavaScript files in the HEAD
 
 - [ ] Facebook Open Graph  
-You can look at [https://checklist.atolye15.com/checklist/setting-up-meta-tags](this) checklist for further information
+You can look at [this](/setting-up-meta-tags) checklist for further information
 
 - [ ] Twitter Card  
-You can look at [https://checklist.atolye15.com/checklist/setting-up-meta-tags](this) checklist for further information
+You can look at [this](/checklist/setting-up-meta-tags) checklist for further information

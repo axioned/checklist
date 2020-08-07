@@ -33,7 +33,7 @@ Use of tags is encouraged but shouldn't be used needlessly.
 - [ ] Use of '#' on tags is unnecessary  
 We automatically add # to the tags.
 ​
-- [ ] Tags should be consist of one word only  
+- [ ] Tags should consist of one word only  
 If it really needs to have two or more words then please use a dash(-) to divide the words.
 ​
 - [ ] Every necessary to-do's for the related task should be provided  

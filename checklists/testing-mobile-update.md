@@ -1,8 +1,8 @@
 ---
 title: Testing Mobile Update
-category: Project Management
+category: Quality Assurance
 date: "2020-03-11"
-tags: ['test', 'mobile', 'testflight', 'production']
+tags: ['test', 'mobile', 'testflight', 'production', 'android']
 description: Before releasing mobile application, you should test it in different cases. Here are the methods of it!
 ---
 

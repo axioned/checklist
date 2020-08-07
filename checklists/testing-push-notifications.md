@@ -1,8 +1,8 @@
 ---
 title: Testing Push Notification
-category: Project Management
+category: Quality Assurance
 date: "2020-03-11"
-tags: ['test', 'notification']
+tags: ['test', 'notification', 'ios', 'android']
 description: Push notifications are vital for mobile applications, and you need to test them carefully. This checklist will help you to cover all cases.
 ---
 
@@ -13,7 +13,7 @@ Carefully test all the wordings and emojis.
 Take care of the modals and try to test each screen. 
 
 - [ ] Check the notification while app is on background  
-Notification wording might change while the app is running on background. Check the wording whether it's the same as related Jira issue or not.
+Notification wording might change while the app is running on background. Check the wording whether it's the same as related user story or not.
 
 - [ ] Check to see if the user still gets the expected notification even when the app is closed  
 

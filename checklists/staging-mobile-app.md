@@ -2,7 +2,7 @@
 title: Stage A Mobile App
 category: Mobile
 date: "2020-03-11"
-tags: ['mobile', 'react-native']
+tags: ['mobile', 'react-native', 'ios', 'android']
 description: Follow these steps while staging a mobile application.
 ---
 

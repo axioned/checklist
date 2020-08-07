@@ -1,8 +1,8 @@
 ---
-title: Daily CRM Reporting Checklist
+title: Daily Priorities
 category: General
 date: "2020-03-12"
-tags: ['worklog', 'time-management']
+tags: ['priorities', 'time-management', 'assignment']
 description: We request the worklog from the team at the end of every day. So that, we can follow our performance (man/day) in each project and we call it "CRM". Follow the steps for the perfect CRM sharing! 
 ---
 
@@ -17,7 +17,4 @@ You should specify it with key-id and title that are taken from Jira. So that ev
 
 - [ ] Write down the status of your issues like "Done", "In Progress"
 
-- [ ] It would be better to include Turkish characters while writing CRM  
-
-- [ ] Check that the total time is equal to 7.30 hours  
-We are counting the time over 7.30 hours.
+- [ ] Check that the total time is equal to 7:30 or 8:30 hours  

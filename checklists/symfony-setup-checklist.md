@@ -21,8 +21,5 @@ Make sure that the project is running when Docker container is up
 - [ ] Create the Makefile  
 Create a Makefile which includes the steps that applied frequently in the project
 
-- [ ] Configure the CI workflow  
-Create a project on CircleCI and configure the CI workflow
-
 - [ ] Create the README.md file  
 Create a README.md file which includes information about how to install and up the project, the project's code style, the Jira project link and contributing rules and steps. **And don't forget to hold this file up to date** 🤓

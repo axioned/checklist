@@ -2,11 +2,11 @@
 title: Bug Reporting
 category: Project Management
 date: "2020-03-23"
-tags: ['jira', 'bug', 'issue']
+tags: ['bug', 'issue']
 description: The protocol we follow when we report a bug. This checklist is vital for assignee to understand the problem and reproduce it.
 ---
 
-- [ ] Open an issue on Jira  
+- [ ] Open an issue on Zoho, Jira or project management tool used for the project   
 Issue type must be **bug**. 
 
 - [ ] Provide steps to reproduce  
