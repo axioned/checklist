@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/1801024/75039893-a9f8c000-54ca-11ea-9544-7f566efac108.png">
 </p>
 
-# Checklist
+# PRDXN Checklist
 
 ![License](https://img.shields.io/github/license/banuragprdxn/checklist) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/banuragprdxn/checklist/blob/master/CONTRIBUTING.md)
 
