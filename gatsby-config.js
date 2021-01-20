@@ -7,10 +7,10 @@ const queries = require('./src/utils/algolia');
 
 module.exports = {
   siteMetadata: {
-    title: 'Checklist',
+    title: 'Checklists',
     description: "The protocols we follow for the things we can't automate yet.",
-    author: '@atolye15',
-    siteUrl: 'https://checklist.atolye15.com',
+    author: '@axionedteam',
+    siteUrl: 'https://checklists.axioned.com',
   },
   plugins: [
     {
@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://checklist.atolye15.com`,
+        siteUrl: `https://checklists.axioned.com`,
         stripQueryString: true,
       },
     },

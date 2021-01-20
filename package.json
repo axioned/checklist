@@ -12,6 +12,7 @@
     "classnames": "^2.2.6",
     "dotenv": "^8.2.0",
     "focus-visible": "^5.0.2",
+    "formik": "^2.2.6",
     "gatsby": "^2.20.2",
     "gatsby-cli": "^2.12.87",
     "gatsby-image": "^2.3.0",
@@ -107,9 +108,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atolye15/checklist"
+    "url": "https://github.com/prdxn-org/checklist"
   },
   "bugs": {
-    "url": "https://github.com/atolye15/checklist/issues"
+    "url": "https://github.com/prdxn-org/checklist/issues"
   }
 }
