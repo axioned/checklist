@@ -6,7 +6,7 @@ tags: ['meta', 'open-graph', 'twitter', 'handoff', 'seo']
 description: The meta tags need to be defined on all projects.
 ---
 
-- [ ] Google Analytics
+- [ ] Google Analytics   
 Google Analytics is installed and correctly configured. If the project requires a tag manager (like Google Tag Manager) then implement Google Analytics and other tracking codes (like Hotjar, Bluekai, etc) through it.
 
 - [ ] Headings logic
@@ -18,10 +18,11 @@ A `sitemap.xml` exists and was submitted to Google Search Console.
 - [ ] robots.txt
 The `robots.txt` is not blocking webpages.
 
-- [ ] Structured Data
+- [ ] Structured Data   
 Pages using structured data are tested and are without errors. Structured data helps crawlers understand the content in the current page.
 
-- [ ] Sitemap HTML: An HTML sitemap is provided and is accessible via a link in the footer of your website.
+- [ ] Sitemap HTML   
+An HTML sitemap is provided and is accessible via a link in the footer of your website.
 
 - [ ] Pagination link tags
 Provide `rel="prev"` and `rel="next"` to indicate paginated content.
