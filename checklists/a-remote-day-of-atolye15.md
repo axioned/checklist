@@ -1,5 +1,5 @@
 ---
-title: A Remote Day of Atolye15
+title: A Remote Day of Axioned
 category: "General"
 date: "2020-03-21"
 tags: ['corona-virus', 'remote', 'covid-19']
@@ -8,48 +8,39 @@ featured: true
 ---
 
 - [ ] Wake up at usual time  
-Actually, since there is no travel to work time involved, you can -and definitely should- skip your first couple alarms.
+Actually, since there is no travel to work time involved, you can - and definitely should - skip your first couple alarms. If you are travelling to office 🙌, take in the fresh air, sunlight and meet your team in person (lucky you!).
 
 - [ ] Air out your room  
 It is highly important to air out your room, they said.
 
-- [ ] Brew a good coffee  
-No day should start without a coffee, make one.
+- [ ] Brew a good coffee or tea  
+No day should start without a coffee or tea, make one.
 
 - [ ] Make breakfast  
 Or not, not everyone eats breakfast. And it's okay.
 
-- [ ] Wash your hands  
-Yeah, wash them good!
+- [ ] Get on to your desk by 11:30 IST or a different based on what works for you and the team  
+Discuss with your project team on how you want to ensure there is adequate overlap in all of your schedules.
 
-- [ ] Get on to your desk by 08:30  
-You might want to consider connecting to Slack a couple minutes before that to catch the morning joke around.
-
-- [ ] Join to your daily scrum meetings  
-Every scrum team has their morning meetings around 08:30
+- [ ] Join to your daily standup meetings  
+Every team has their daily standup meetings around 11:00-13:00 IST.
 
 - [ ] Get to work  
 You might want to follow [Design Life-Cycle of a Jira Issue](/checklist/design-life-cycle-of-a-jira-issue) or [Coding Life-Cycle of a Jira Issue](/checklist/coding-life-cycle-of-a-jira-issue)
 
-- [ ] Prepare lunch  
-Since there is no Seço around 😞, you should prepare your own lunch 
+- [ ] Prepare lunch   
+Make sure you have your lunch. Don't skip it!
 
-- [ ] Wash your hands, again    
-This should be your at least 4th washing today.
+- [ ] Check Slack for some more joke around   
+There is 100% a joke around going on in the #random channel.
 
-- [ ] Check Slack for some more joke around  
-There is %100 a joke around going on in the #goygoy channel.
-
-- [ ] Join to mid-daily meetings  
+- [ ] Join to mid-daily meetings   
 It's 13:00, that means there is another scrum meeting going on in your team's Slack channel. Join it.
 
-- [ ] Get back to work  
+- [ ] Get back to work   
 Pretty straight-forward, huh? Good.
 
-- [ ] Check if it's ~16:45  
+- [ ] Check if it's ~19:30 IST   
 If so, it's daily CRM time. Follow the [CRM Checklist](/checklist/daily-crm-reporting-checklist).
-
-- [ ] Check if you've washed your hands  
-Smell them, look at them idk... Boil 'em, mash 'em, stick 'em in a stew!
 
 - [ ] Come back to this checklist tomorrow

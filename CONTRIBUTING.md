@@ -4,11 +4,11 @@ Want to contribute to the Checklist? There are some steps you need to follow.
 
 ## Code Contribution
 
-For code contributing instructions please refer to [README.md](https://github.com/atolye15/checklist/blob/master/README.md)
+For code contributing instructions please refer to [README.md](https://github.com/prdxn-org/checklist/blob/master/README.md)
 
 ## Checklist Contribution
 
-All checklists on [Checklist](https://checklist.atolye15.com) is populating by the Markdown files that in [checklists](https://github.com/atolye15/checklist/blob/master/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
+All checklists on [Checklist](https://checklist.axioned.com) is populating by the Markdown files that in [checklists](https://github.com/prdxn-org/checklist/blob/master/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
 
 Since we use Markdown files for checklists, you can read Markdown notation from [here](https://www.markdownguide.org/) in case you're not familiar with it. We also use [Front Matter](https://jekyllrb.com/docs/front-matter/) to provide some meta data to checklists. Here are the required Front Matter data for a valid Checklist.
 
@@ -20,7 +20,7 @@ Since we use Markdown files for checklists, you can read Markdown notation from 
 | description | A brief description about checklist. It will be used on checklist lists. | Can be anything                                                   | The protocol we follow when we report a bug. This checklist is vital for assignee to understand the problem and reproduce it. |
 | date        | Publication date. Most probably current day.                             | Format: YYYY-MM-DD                                                | 2020-02-14                                                                                                                    |
 
-Here is the full list of pre-defined category list. It is not allowed to use any other, you should pick one of them. But, if you have a new brand category suggesstion, you should [create an issue](https://github.com/atolye15/checklist/issues/new) for that.
+Here is the full list of pre-defined category list. It is not allowed to use any other, you should pick one of them. But, if you have a new brand category suggesstion, you should [create an issue](https://github.com/prdxn-org/checklist/issues/new) for that.
 
 | Title              | Description                                                                                                                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|

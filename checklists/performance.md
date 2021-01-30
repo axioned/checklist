@@ -36,3 +36,14 @@ All your pages were tested (not only the homepage) and have a score of at least 
 - [ ] Use a Content Delivery Network (CDN)   
 Identify and list out static assets and use/replace them with a CDN link if possible.
 
+## Wordpress
+
+### Image Optimization
+- [ ] Install WP Smush. Resize images to existing upload directory.
+- [ ] Image formats like JPEG 2000, JPEG XR, and WebP often provide better compression than PNG or JPEG, which means faster downloads and less data consumption.
+- [ ] Add images of the required dimension.
+
+### Code improvements and clean up
+- [ ] Fixing HTML document with HTML parsing standards. 
+- [ ] Validate code & fix document, Code which is coming from theme can be fixed, some code is added by plugins directly deactivate plugin if not required. 
+- [ ] Optimize JS and PHP code - reducing looping, conditional logics and etc."
