@@ -19,7 +19,7 @@ No day should start without a coffee or tea, make one.
 - [ ] Make breakfast  
 Or not, not everyone eats breakfast. And it's okay.
 
-- [ ] Get on to your desk by 11:30 IST or a different based on what works for you and the team  
+- [ ] Get on to your desk by 11-11:30 AM IST or a different based on what works for you and the team  
 Discuss with your project team on how you want to ensure there is adequate overlap in all of your schedules.
 
 - [ ] Join to your daily standup meetings  
@@ -34,13 +34,10 @@ Make sure you have your lunch. Don't skip it!
 - [ ] Check Slack for some more joke around   
 There is 100% a joke around going on in the #random channel.
 
-- [ ] Join to mid-daily meetings   
-It's 13:00, that means there is another scrum meeting going on in your team's Slack channel. Join it.
-
 - [ ] Get back to work   
 Pretty straight-forward, huh? Good.
 
 - [ ] Check if it's ~19:30 IST   
-If so, it's daily CRM time. Follow the [CRM Checklist](/checklist/daily-crm-reporting-checklist).
+If so, it's end of day status updates on your project channel(s) and updating the PM tool, Tickspot, etc. Follow the [Daily Project Checklist](/checklist/daily-crm-reporting-checklist) to find out more.
 
 - [ ] Come back to this checklist tomorrow
